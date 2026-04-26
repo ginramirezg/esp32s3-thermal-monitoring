@@ -186,7 +186,7 @@ También se utilizan librerías incluidas por defecto:
 Abrir el archivo:
 
 ```text
-completo.ino
+esp32_thermal_monitoring.ino
 ```
 
 Seleccionar el puerto correspondiente a la ESP32-S3, por ejemplo:
