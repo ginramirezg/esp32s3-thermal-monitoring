@@ -59,7 +59,7 @@ El objetivo principal del proyecto es desarrollar un sistema capaz de:
 ```text
 ESP32S3-monitorizacion-termica/
 │
-├── completo.ino
+├── esp32_thermal_monitoring.ino
 ├── matriz_MLX90640.pde
 ├── datos_termicos_2026-04-22_19-35-00.csv
 ├── datos_termicos_2026-04-22_19-35-00_modificado_placas_metal.csv
