@@ -1,7 +1,7 @@
 # esp32s3-thermal-monitoring
 Diseño de un sistema empotrado de monitorización de temperatura para impresión 3D
 
-````markdown
+
 # Sistema empotrado de monitorización térmica con ESP32-S3
 
 Este proyecto forma parte de un Trabajo de Fin de Grado orientado al diseño de un sistema empotrado para la monitorización de temperatura en procesos de impresión 3D. El prototipo utiliza una placa **ESP32-S3** junto con sensores infrarrojos para capturar datos térmicos, visualizarlos en tiempo real y almacenarlos en formato CSV para su posterior análisis.
