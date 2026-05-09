@@ -35,8 +35,6 @@ El objetivo principal del proyecto es desarrollar un sistema capaz de:
 - Servo SG90 / MG996R
 - Protoboard
 - Cables Dupont
-- Condensador de 220 µF
-- Fuente de alimentación externa para el servo
 - Impresora 3D Ender/Creality
 - Placas metálicas para pruebas térmicas
 
@@ -61,6 +59,7 @@ ESP32S3-monitorizacion-termica/
 │
 ├── esp32_thermal_monitoring.ino
 ├── matriz_MLX90640.pde
+├── matriz_MLX90640_1D.pde
 ├── datos_termicos_2026-04-22_19-35-00.csv
 ├── datos_termicos_2026-04-22_19-35-00_modificado_placas_metal.csv
 ├── README.md
