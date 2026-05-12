@@ -19,7 +19,6 @@ El objetivo principal del proyecto es desarrollar un sistema capaz de:
 - Registrar las lecturas en un archivo CSV.
 - Leer archivos `.gcode` desde una tarjeta microSD.
 - Mover un servo en función de valores extraídos del eje Z del G-code.
-- Generar datos estructurados que puedan utilizarse en fases posteriores para análisis o modelos de inteligencia artificial.
 
 ---
 
@@ -424,7 +423,7 @@ Trabajo de Fin de Grado
 
 El proyecto se encuentra en fase de prototipo funcional. Actualmente permite capturar, visualizar y registrar datos térmicos, así como realizar una prueba de actuación mediante servo a partir de información extraída de un archivo G-code.
 
-La fase de inteligencia artificial queda planteada como continuación del trabajo, una vez ampliado el dataset experimental.
+
 
 ```
 ```
